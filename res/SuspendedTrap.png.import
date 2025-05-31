@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://crfigahf8pgl2"
-path="res://.godot/imported/unnamed.png-2225ad0897dfb9d3be7ac0aee2fe03db.ctex"
+uid="uid://x74whnpjrvt0"
+path="res://.godot/imported/SuspendedTrap.png-7d2f3c069e06a3a44c3a664063524222.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://res/unnamed.png"
-dest_files=["res://.godot/imported/unnamed.png-2225ad0897dfb9d3be7ac0aee2fe03db.ctex"]
+source_file="res://res/SuspendedTrap.png"
+dest_files=["res://.godot/imported/SuspendedTrap.png-7d2f3c069e06a3a44c3a664063524222.ctex"]
 
 [params]
 

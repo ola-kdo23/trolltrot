@@ -24,6 +24,10 @@ window/stretch/aspect="ignore"
 
 project/assembly_name="trollRun"
 
+[global_group]
+
+player=""
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
